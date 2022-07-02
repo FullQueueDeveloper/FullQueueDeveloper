@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋🏽
 
-<!--
-**FullQueueDeveloper/FullQueueDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 [Twitch stream](https://twitch.tv/fullqueuedeveloper) answering Swift programming questions and sharing my curiosity for programming. 
+- 📆 Every weekday at 2pm New York Time
+- 🎯 JavaScript, Terraform, Swift, Kotlin, Go, Ruby, Python, Docker, Kubernetes, iOS, Android, Java, 
+- 🎸 [Commissions are open!](https://ko-fi.com/fullqueuedeveloper/commissions ) Use code `FIRE` for a 10% discount through July 31st, 2022 
+- 🫱🏾‍🫲🏽 Also accepting freelance roles across any of my specializations
+- 📫 How to reach me: fullqueuedeveloper at fullqueuedeveloper.com
+- 💜 Pronouns: Any! She, he, they all work for me.
+- 🔬 Over 15 years of professional programming experience across frontend & backend. Solo projects and team projects. As freelancer, consulant, and employee. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- 🔭 https://twitch.tv/fullqueuedeveloper
+- 🕸 https://fullqueuedeveloper.com
+- 📺 https://www.youtube.com/channel/UCqJ4mrrpAXbzA-KaZ8f_aMg
+- ☕️ https://ko-fi.com/fullqueuedeveloper
+- 🦉 https://twitter.com/FullQueueDev
