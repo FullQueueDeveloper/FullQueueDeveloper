@@ -11,7 +11,7 @@
 ### Links
 - 🔭 https://twitch.tv/fullqueuedeveloper
 - 🕸 https://fullqueuedeveloper.com
-- 📺 https://www.youtube.com/channel/UCqJ4mrrpAXbzA-KaZ8f_aMg
+- 📺 https://www.youtube.com/@fullqueuedeveloper
 - ☕️ https://ko-fi.com/fullqueuedeveloper
 - 🦉 https://twitter.com/FullQueueDev
 - 💬 https://discord.gg/gGmBNcDxrf
