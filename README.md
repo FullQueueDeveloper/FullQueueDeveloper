@@ -28,6 +28,10 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 
 ## Apps
 
+- [Haptics Studio](https://FullQueueDeveloper.com/haptics-studio) for iOS
+- [Underway](https://underway.nyc) for iOS and Android
+
+
 
 ## Links
 - 🔭 https://twitch.tv/FullQueueDeveloper
