@@ -8,6 +8,11 @@ I love building things. My main medium is Swift, in iOS apps and server apps, an
 
 ### Swish & Sh
 
+[Swish](https://github.com/FullQueueDeveloper/Swish) is a Swift script running tool. Easily run Swift packages in a supporting relative dir named Swish
+
+Swish pairs nicely with [Sh](https://github.com/FullQueueDeveloper/Sh) to run shell commands and process shell output from your Swift scripts.
+
+For a full example of using Swish, Sh, and ShXcrun on your iOS project, please see https://github.com/FullQueueDeveloper/SwishExampleiOSProject
 
 
 ### FQAuth
