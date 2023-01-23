@@ -1,17 +1,31 @@
-### Hi there 👋🏽
+# Full Queue Developer
 
-- 🔭 [Twitch stream](https://twitch.tv/fullqueuedeveloper) answering Swift programming questions and sharing my curiosity for programming. 
-- 📆 Every weekday at 3pm New York Time
-- 🎯 JavaScript, Terraform, Swift, Kotlin, Go, Ruby, Python, Docker, Kubernetes, iOS, Android, Java, 
-- 🫱🏾‍🫲🏽 Also accepting freelance roles across any of my specializations
-- 📫 How to reach me: fullqueuedeveloper at fullqueuedeveloper.com
+Watch real apps come to life: Season 2 now live on Twitch [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://www.youtube.com/@FullQueueDeveloper)
+
+I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com)
+
+## My open-source projects 
+
+### Swish & Sh
+
+
+
+### FQAuth
+
+An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://github.com/FullQueueDeveloper/FQAuth) is the main server and middleware. 
+
+
+
+## Links
+- 🔭 https://twitch.tv/FullQueueDeveloper
+- 🌐 https://fullqueuedeveloper.com
+- 📺 https://www.youtube.com/@FullQueueDeveloper
+- ☕️ https://ko-fi.com/FullQueueDeveloper
+- 🐘 https://mastodon.online/FullQueueDeveloper
+- 💬 https://discord.gg/gGmBNcDxrf
+
+## Et cetera
+
+- 📫 How to reach me: FullQueueDeveloper at FullQueueDeveloper.com
 - 💜 Pronouns: Any! She, he, they all work for me.
 - 🔬 Over 15 years of professional programming experience across frontend & backend. Solo projects and team projects. As freelancer, consulant, team lead, and employee. 
-
-### Links
-- 🔭 https://twitch.tv/fullqueuedeveloper
-- 🕸 https://fullqueuedeveloper.com
-- 📺 https://www.youtube.com/@fullqueuedeveloper
-- ☕️ https://ko-fi.com/fullqueuedeveloper
-- 🦉 https://twitter.com/FullQueueDev
-- 💬 https://discord.gg/gGmBNcDxrf
