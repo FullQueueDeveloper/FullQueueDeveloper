@@ -14,6 +14,11 @@ I love building things. My main medium is Swift, in iOS apps and server apps, an
 
 An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://github.com/FullQueueDeveloper/FQAuth) is the main server and middleware. 
 
+### Sample usage
+
+- [Sample iOS app](https://github.com/FullQueueDeveloper/FQAuth-Sample-iOS) 
+- [Sample Vapor microservice](https://github.com/FullQueueDeveloper/FQAuth-Sample-Microservice)
+
 
 
 ## Links
