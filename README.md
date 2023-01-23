@@ -8,22 +8,25 @@ I love building things. My main medium is Swift, in iOS apps and server apps, an
 
 ### Swish & Sh
 
-[Swish](https://github.com/FullQueueDeveloper/Swish) is a Swift script running tool. Easily run Swift packages in a supporting relative dir named Swish
 
-Swish pairs nicely with [Sh](https://github.com/FullQueueDeveloper/Sh) to run shell commands and process shell output from your Swift scripts.
 
-For a full example of using Swish, Sh, and ShXcrun on your iOS project, please see https://github.com/FullQueueDeveloper/SwishExampleiOSProject
+[Swish](https://github.com/FullQueueDeveloper/Swish) is a Swift script running tool. Swish pairs nicely with [Sh](https://github.com/FullQueueDeveloper/Sh) to run shell commands and process shell output from your Swift scripts.
+
+This pull request https://github.com/0xOpenBytes/ios-base/pull/14 really shows off the power of scripting in Swift. Run `swish screenshots` to run the UI test target, taking screenshots, and processing them with `CoreGraphics` and `AVFoundation` to prepare the screenshots for the App Store and publishing to a website
+
 
 
 ### FQAuth
 
 An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://github.com/FullQueueDeveloper/FQAuth) is the main server and middleware. 
 
-### Sample usage
+#### Sample usage
 
 - [Sample iOS app](https://github.com/FullQueueDeveloper/FQAuth-Sample-iOS) 
 - [Sample Vapor microservice](https://github.com/FullQueueDeveloper/FQAuth-Sample-Microservice)
 
+
+## Apps
 
 
 ## Links
@@ -33,6 +36,7 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 - ☕️ https://ko-fi.com/FullQueueDeveloper
 - 🐘 https://mastodon.online/FullQueueDeveloper
 - 💬 https://discord.gg/gGmBNcDxrf
+
 
 ## Et cetera
 
