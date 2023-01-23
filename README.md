@@ -26,7 +26,7 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 - [Sample Vapor microservice](https://github.com/FullQueueDeveloper/FQAuth-Sample-Microservice)
 
 
-## Apps
+## My apps
 
 - [Haptics Studio](https://FullQueueDeveloper.com/haptics-studio) for iOS
 - [Underway](https://underway.nyc) for iOS and Android
