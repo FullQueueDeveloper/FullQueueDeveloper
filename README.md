@@ -4,6 +4,8 @@ Watch real apps come to life: Season 2 now live on Twitch [Twitch](https://twitc
 
 I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com)
 
+Thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper)
+
 ## My open-source projects 
 
 ### Swish & Sh
