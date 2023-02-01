@@ -1,6 +1,6 @@
 # Full Queue Developer
 
-Watch real apps come to life: Season 2 now live on Twitch [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://www.youtube.com/@FullQueueDeveloper)
+Watch real apps come to life: Season 2 now live on [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://www.youtube.com/@FullQueueDeveloper). Schedules posted in [Discord](https://discord.gg/gGmBNcDxrf) and other socials.
 
 I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com)
 
