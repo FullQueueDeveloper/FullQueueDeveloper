@@ -4,7 +4,7 @@ Curious & gentle developer with an elevated sense of usability & ergonomics.
 
 Watch real apps come to life: Season 2 now live on [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://www.youtube.com/@FullQueueDeveloper). Schedules posted in [Discord](https://discord.gg/gGmBNcDxrf) and other socials.
 
-I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com)
+I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also build for web using JavaScript, and I build for Android using Kotlin. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com)
 
 Thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper)
 
