@@ -8,6 +8,20 @@ I love building things. My main medium is Swift, in iOS apps and server apps, an
 
 Thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper)
 
+## This week's schedule
+
+Live on [Twitch](https://twitch.tv/FullQueueDeveloper) at 2pm to 5pm, NYC time (currently, UTC-5)
+
+| day | plan |
+|:-----|:-------|
+| **Monday**  | _offline_        |
+| **Tuesday** | 2pm Narrated live coding |
+| **Wednesday** | 2pm Narrated live coding |
+| **Thursday** | 2pm Narrated live coding |
+| **Friday** | 2pm Freestyle exploration in Swift |
+| **Saturday**  | _offline_          |
+| **Sunday**  | _offline_          |
+
 ## My open-source projects 
 
 ### Swish & Sh
