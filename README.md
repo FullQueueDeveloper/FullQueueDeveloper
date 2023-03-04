@@ -2,11 +2,19 @@
 
 Curious & gentle developer with an elevated sense of usability & ergonomics.
 
-Watch real apps come to life: Season 2 now live on [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://www.youtube.com/@FullQueueDeveloper). Weekdays, 2pm to 5pm.
+Watch real apps come to life: Season 2 has completed. Stay tuned for details on Season 3!
 
-I love building things. My main medium is Swift, in iOS apps and server apps, and command-line tools. I also build for web using JavaScript, and I build for Android using Kotlin. I also enjoy making food, making music, and making beaver dams in [Timberborn](https://mechanistry.com).
+I build a subway app for NYC. Download the app for iOS and Android. https://underway.nyc
 
-Thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper)
+I build open-source developer tools in Swift. 
+1. Swish is "npx for Swift" https://github.com/FullQueueDeveloper/Swish
+2. Sh runs a command-line tools from Swift https://github.com/FullQueueDeveloper/Sh
+3. FQAuth is a Sign-in with Apple server https://github.com/FullQueueDeveloper/FQAuth
+
+I also love of beautiful ergonomic keyboards. https://FullQueueDeveloper.com/keyboard
+
+## Thanks!
+A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper). I would not be here without you.
 
 ## This week's schedule
 
@@ -15,10 +23,10 @@ Live on [Twitch](https://twitch.tv/FullQueueDeveloper) at 2pm to 5pm, NYC time (
 | day | plan |
 |:-----|:-------|
 | **Monday**  | _offline_        |
-| **Tuesday** | 2pm Narrated live coding |
-| **Wednesday** | 2pm Narrated live coding |
-| **Thursday** | 2pm Narrated live coding |
-| **Friday** | 2pm Freestyle exploration in Swift |
+| **Tuesday** | _offline_ |
+| **Wednesday** | _offline_ |
+| **Thursday** | _offline_ |
+| **Friday** | _offline_ |
 | **Saturday**  | _offline_          |
 | **Sunday**  | _offline_          |
 
@@ -58,10 +66,4 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 - ☕️ https://ko-fi.com/FullQueueDeveloper
 - 🐘 https://mastodon.online/FullQueueDeveloper
 - 💬 https://discord.gg/gGmBNcDxrf
-
-
-## Et cetera
-
-- 📫 How to reach me: FullQueueDeveloper at FullQueueDeveloper.com
-- 💜 Pronouns: Any! She, he, they all work for me.
-- 🔬 Over 15 years of professional programming experience across frontend & backend. Solo projects and team projects. As freelancer, consulant, team lead, and employee. 
+- 📬 business at FullQueueDeveloper.com
