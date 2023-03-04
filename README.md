@@ -13,16 +13,18 @@ I build open-source developer tools in Swift.
 
 I also love of beautiful ergonomic keyboards. https://FullQueueDeveloper.com/keyboard
 
+## Thanks!
+A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper). I would not be here without you.
+
 ## Watch real apps come to life
 
 Thank you so much for all the love during Season 2! Season 2 has now completed. Stay tuned for details on Season 3!
 
-## Thanks!
-A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper). I would not be here without you.
 
-## This week's schedule
 
-Live on [Twitch](https://twitch.tv/FullQueueDeveloper) at 2pm to 5pm, NYC time (currently, UTC-5)
+### This week's schedule
+
+Live on [Twitch](https://twitch.tv/FullQueueDeveloper)
 
 | day | plan |
 |:-----|:-------|
