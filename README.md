@@ -2,7 +2,7 @@
 
 Curious & gentle developer with an elevated sense of usability & ergonomics.
 
-Watch real apps come to life: Season 2 has completed. Stay tuned for details on Season 3!
+## I build
 
 I build a subway app for NYC. Download the app for iOS and Android. https://underway.nyc
 
@@ -12,6 +12,10 @@ I build open-source developer tools in Swift.
 3. FQAuth is a Sign-in with Apple server https://github.com/FullQueueDeveloper/FQAuth
 
 I also love of beautiful ergonomic keyboards. https://FullQueueDeveloper.com/keyboard
+
+## Watch real apps come to life
+
+Thank you so much for all the love during Season 2! Season 2 has now completed. Stay tuned for details on Season 3!
 
 ## Thanks!
 A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/FullQueueDeveloper). I would not be here without you.
