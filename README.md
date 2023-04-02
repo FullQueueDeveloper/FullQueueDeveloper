@@ -2,6 +2,14 @@
 
 Curious & gentle developer with an elevated sense of usability & ergonomics.
 
+## SPX is the new name of Swish! 
+
+Yes, SPX is NPX for Swift.
+
+Curious about the motivation, timeline, and affected packages? Read more here:
+https://fullqueuedeveloper.com/tech-notes/2023/04/02/spx-is-the-new-name-of-swish/
+
+
 ## I build
 
 I build a subway app for NYC. Download the app for iOS and Android. https://underway.nyc
