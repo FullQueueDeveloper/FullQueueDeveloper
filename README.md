@@ -30,19 +30,9 @@ Thank you so much for all the love during Season 2! Season 2 has now completed. 
 
 
 
-### This week's schedule
+### Streaming schedule
 
-Live on [Twitch](https://twitch.tv/FullQueueDeveloper)
-
-| day | plan |
-|:-----|:-------|
-| **Monday**  | _offline_        |
-| **Tuesday** | _offline_ |
-| **Wednesday** | _offline_ |
-| **Thursday** | _offline_ |
-| **Friday** | _offline_ |
-| **Saturday**  | _offline_          |
-| **Sunday**  | _offline_          |
+Live on [Twitch](https://twitch.tv/FullQueueDeveloper) on Sunday afternoons, NYC time.
 
 ## My open-source projects 
 
