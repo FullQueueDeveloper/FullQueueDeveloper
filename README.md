@@ -15,7 +15,7 @@ https://fullqueuedeveloper.com/tech-notes/2023/04/02/spx-is-the-new-name-of-swis
 I build a subway app for NYC. Download the app for iOS and Android. https://underway.nyc
 
 I build open-source developer tools in Swift. 
-1. Swish is "npx for Swift" https://github.com/FullQueueDeveloper/Swish
+1. SPX is "npx for Swift" https://github.com/FullQueueDeveloper/SPX
 2. Sh runs a command-line tools from Swift https://github.com/FullQueueDeveloper/Sh
 3. FQAuth is a Sign-in with Apple server https://github.com/FullQueueDeveloper/FQAuth
 
@@ -36,11 +36,11 @@ Live on [Twitch](https://twitch.tv/FullQueueDeveloper) on Sunday afternoons, NYC
 
 ## My open-source projects 
 
-### Swish & Sh
+### SPX & Sh
 
 
 
-[Swish](https://github.com/FullQueueDeveloper/Swish) is a Swift script running tool. Swish pairs nicely with [Sh](https://github.com/FullQueueDeveloper/Sh) to run shell commands and process shell output from your Swift scripts.
+[SPX](https://github.com/FullQueueDeveloper/SPX) is a Swift script running tool. Swish pairs nicely with [Sh](https://github.com/FullQueueDeveloper/Sh) to run shell commands and process shell output from your Swift scripts.
 
 This pull request https://github.com/0xOpenBytes/ios-base/pull/14 really shows off the power of scripting in Swift. Run `swish screenshots` to run the UI test target, taking screenshots, and processing them with `CoreGraphics` and `AVFoundation` to prepare the screenshots for the App Store and publishing to a website
 
