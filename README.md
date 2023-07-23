@@ -10,7 +10,7 @@ Curious about the motivation, timeline, and affected packages? Read more here:
 https://fullqueuedeveloper.com/tech-notes/2023/04/02/spx-is-the-new-name-of-swish/
 
 
-## I build
+## Things I build
 
 I build a subway app for NYC. Download the app for iOS and Android. https://underway.nyc
 
@@ -55,6 +55,19 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 - [Sample iOS app](https://github.com/FullQueueDeveloper/FQAuth-Sample-iOS) 
 - [Sample Vapor microservice](https://github.com/FullQueueDeveloper/FQAuth-Sample-Microservice)
 
+## Swift Macros
+
+**IdentifiedEnumCases**
+Reference enum cases directly, despite having an associated value!
+[GitHub](https://github.com/FullQueueDeveloper/IdentifiedEnumCases.git), [Swift Forums](https://forums.swift.org/t/introducing-identifiedenumcases-swift-macro/65443)
+
+**StaticMemberIterable**
+Like 'CaseIterable' for static members!
+[GitHub](https://github.com/FullQueueDeveloper/StaticMemberIterable.git), [Swift Forums](https://forums.swift.org/t/introducing-staticmemberiterable-swift-macro/65454)
+
+**UniquelyTypedId**
+Help the compiler help you notice when you pass the wrong type of ID!
+[GitHub](https://github.com/FullQueueDeveloper/UniquelyTypedId), [Swift Forums](https://forums.swift.org/t/introducing-uniquelytypedid-swift-macro/65439)
 
 ## My apps
 
