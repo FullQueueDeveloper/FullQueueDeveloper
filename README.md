@@ -57,16 +57,16 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 
 ## Swift Macros
 
-**IdentifiedEnumCases**
-Reference enum cases directly, despite having an associated value!
+### IdentifiedEnumCases
+Reference enum cases directly, despite having an associated value! <br />
 [GitHub](https://github.com/FullQueueDeveloper/IdentifiedEnumCases.git), [Swift Forums](https://forums.swift.org/t/introducing-identifiedenumcases-swift-macro/65443)
 
-**StaticMemberIterable**
-Like 'CaseIterable' for static members!
+### StaticMemberIterable
+Like 'CaseIterable' for static members! <br />
 [GitHub](https://github.com/FullQueueDeveloper/StaticMemberIterable.git), [Swift Forums](https://forums.swift.org/t/introducing-staticmemberiterable-swift-macro/65454)
 
-**UniquelyTypedId**
-Help the compiler help you notice when you pass the wrong type of ID!
+### UniquelyTypedId
+Help the compiler help you notice when you pass the wrong type of ID! <br />
 [GitHub](https://github.com/FullQueueDeveloper/UniquelyTypedId), [Swift Forums](https://forums.swift.org/t/introducing-uniquelytypedid-swift-macro/65439)
 
 ## My apps
