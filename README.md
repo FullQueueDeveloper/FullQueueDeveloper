@@ -1,14 +1,6 @@
 # Full Queue Developer
 
-Curious & gentle developer with an elevated sense of usability & ergonomics.
-
-## SPX is the new name of Swish! 
-
-Yes, SPX is NPX for Swift.
-
-Curious about the motivation, timeline, and affected packages? Read more here:
-https://fullqueuedeveloper.com/tech-notes/2023/04/02/spx-is-the-new-name-of-swish/
-
+Creating is a miracle, programming is a joy
 
 ## Things I build
 
@@ -26,13 +18,13 @@ A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/
 
 ## Watch real apps come to life
 
-Thank you so much for all the love during Season 2! Season 2 has now completed. Stay tuned for details on Season 3!
+Follow my [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube]
 
 
 
 ### Streaming schedule
 
-Live on [Twitch](https://twitch.tv/FullQueueDeveloper) on Sunday afternoons, NYC time.
+Live on [Twitch](https://twitch.tv/FullQueueDeveloper) on Sunday afternoons at 2pm NYC time.
 
 ## My open-source projects 
 
@@ -57,6 +49,8 @@ An open-source Sign-in with Apple server. [FullQueueDeveloper/FQAuth](https://gi
 
 ## Swift Macros
 
+Swift Macros were introduced in Swift 5.9. Now that Swift 5.9 is live, these projects have reached 1.0 status.
+
 ### IdentifiedEnumCases
 Reference enum cases directly, despite having an associated value! <br />
 [GitHub](https://github.com/FullQueueDeveloper/IdentifiedEnumCases.git), [Swift Forums](https://forums.swift.org/t/introducing-identifiedenumcases-swift-macro/65443)
@@ -70,6 +64,8 @@ Help the compiler help you notice when you pass the wrong type of ID! <br />
 [GitHub](https://github.com/FullQueueDeveloper/UniquelyTypedId), [Swift Forums](https://forums.swift.org/t/introducing-uniquelytypedid-swift-macro/65439)
 
 ## My apps
+
+Good ideas are useless (i.e. no one can use them) unless they're made concrete.
 
 - [Haptics Studio](https://FullQueueDeveloper.com/haptics-studio) for iOS
 - [Underway](https://underway.nyc) for iOS and Android
