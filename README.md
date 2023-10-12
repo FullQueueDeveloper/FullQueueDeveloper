@@ -2,7 +2,7 @@
 
 Creating is a miracle, programming is a joy
 
-## Thanks!
+## Thanks to my sponsors here on GitHub!
 Foremost, a huge heartfelt thank you to my [GitHub Sponsors](https://github.com/sponsors/FullQueueDeveloper)! I would not be here without you, thank you so so much 💜
 
 ## Watch real apps come to life
