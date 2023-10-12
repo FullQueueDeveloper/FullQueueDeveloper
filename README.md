@@ -66,9 +66,11 @@ Help the compiler help you notice when you pass the wrong type of ID! <br />
 ## My apps
 
 Good ideas are useless (i.e. no one can use them) unless they're made concrete.
+Theory must be grounded in reality. Try out my ideas for yourself in my apps.
 
-- [Haptics Studio](https://FullQueueDeveloper.com/haptics-studio) for iOS
-- [Underway](https://underway.nyc) for iOS and Android
+- [Haptics Studio](https://apps.apple.com/app/id1624792731) helps you discover the perfect customized haptics for your iOS app
+- [Underway](https://underway.nyc/download) is the best app for underground decision-making in NYC
+
 
 
 
