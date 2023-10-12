@@ -18,7 +18,7 @@ A huge heartfelt thank you to my [GitHub Sponsors!](https://github.com/sponsors/
 
 ## Watch real apps come to life
 
-Follow my [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube]
+Live coding and thoughts on user-interface experience, code design nad more. Follow my [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://youtube.com/@FullQueueDeveloper)
 
 
 
