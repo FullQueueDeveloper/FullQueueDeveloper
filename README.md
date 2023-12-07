@@ -5,10 +5,18 @@ Creating is a miracle, programming is a joy
 ## Thanks to my sponsors here on GitHub!
 Foremost, a huge heartfelt thank you to my [GitHub Sponsors](https://github.com/sponsors/FullQueueDeveloper)! I would not be here without you, thank you so so much 💜
 
-## Watch real apps come to life
+## Live shows
 
-Live coding and thoughts on user-interface experience, code design nad more. Follow my [Twitch](https://twitch.tv/FullQueueDeveloper) and [YouTube](https://youtube.com/@FullQueueDeveloper)
-Live on [Twitch](https://twitch.tv/FullQueueDeveloper) on Sunday afternoons at 2pm NYC time.
+I produce two live shows on [Twitch](https://twitch.tv/FullQueueDeveloper).
+
+### Living the Creative Act
+*Sundays, 2pm NYC time*
+Book club reading and discussing "The Creative Act" by Rick Rubin. I read the section out loud before discussion, so you can come as you are. Can't make it to the live show? Catch the episodes on A[pple Podcasts](https://podcasts.apple.com/us/podcast/living-the-creative-act/id1710679124). More info [on my website](https://FullQueueDeveloper.com/living-the-creative-adt).
+
+
+### Edges of Manhattan
+*Weedays, 10am to 5pm NYC time*
+Work with me, chill with me, listen to music, thoughout the workday. Accompianied by my NYC scenery videos.
 
 ## My open-source projects 
 
