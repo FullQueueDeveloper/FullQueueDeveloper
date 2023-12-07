@@ -9,14 +9,13 @@ Foremost, a huge heartfelt thank you to my [GitHub Sponsors](https://github.com/
 
 I produce two live shows on [Twitch](https://twitch.tv/FullQueueDeveloper).
 
-### Living the Creative Act
-*Sundays, 2pm NYC time*
-Book club reading and discussing "The Creative Act" by Rick Rubin. I read the section out loud before discussion, so you can come as you are. Can't make it to the live show? Catch the episodes on A[pple Podcasts](https://podcasts.apple.com/us/podcast/living-the-creative-act/id1710679124). More info [on my website](https://FullQueueDeveloper.com/living-the-creative-adt).
+**Living the Creative Act**<br/> 
+*Sundays, 2pm NYC time* <br/> Book club reading and discussing "The Creative Act" by Rick Rubin. I read the section out loud before discussion, so you can come as you are. Can't make it to the live show? Catch the episodes on [Apple Podcasts](https://podcasts.apple.com/us/podcast/living-the-creative-act/id1710679124). More info and RSS feed [on my website](https://FullQueueDeveloper.com/living-the-creative-adt).
 
 
-### Edges of Manhattan
-*Weedays, 10am to 5pm NYC time*
-Work with me, chill with me, listen to music, thoughout the workday. Accompianied by my NYC scenery videos.
+**Edges of Manhattan**<br/> 
+*Weedays, 10am to 5pm NYC time* <br/> 
+Sit with me, Wwork with me, chill with me, listen to music. Accompianied by my gentle NYC waterway scenery videos thoughout the workday. This is exactly what I want to watch while working. I've looked high and low for something like this, and I'm happy to bring this to you.
 
 ## My open-source projects 
 
