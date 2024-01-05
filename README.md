@@ -14,7 +14,7 @@ I produce two live shows on [Twitch](https://twitch.tv/FullQueueDeveloper).
 
 
 **Edges of Manhattan**<br/> 
-*Weedays, 10am to 4pm NYC time* <br/> 
+*Workdays, 10am to 4pm NYC time* <br/> 
 Sit with me, Wwork with me, chill with me, listen to music. Accompianied by my gentle NYC waterway scenery videos thoughout the workday. This is exactly what I want to watch while working. I've looked high and low for something like this, and I'm happy to bring this to you.
 
 ## My open-source projects 
