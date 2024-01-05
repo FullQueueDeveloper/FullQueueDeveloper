@@ -72,7 +72,6 @@ Good ideas are useless (i.e. no one can use them) unless they're made concrete. 
 - 🔭 https://twitch.tv/FullQueueDeveloper
 - 🌐 https://fullqueuedeveloper.com
 - 📺 https://www.youtube.com/@FullQueueDeveloper
-- ☕️ https://ko-fi.com/FullQueueDeveloper
 - 🐘 https://mastodon.online/FullQueueDeveloper
 - 💬 https://discord.gg/gGmBNcDxrf
 - 📬 business at FullQueueDeveloper.com
